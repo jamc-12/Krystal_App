@@ -34,6 +34,7 @@ namespace Desktop.Formularios
 
         public void pasar_datos()
         {
+            //pasar los datos al formulario hijo
             if (dg.Rows.Count == 0)
             {
                 return;
