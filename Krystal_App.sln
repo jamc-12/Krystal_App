@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30128.74
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Desktop", "Desktop\Desktop.csproj", "{B0558674-8226-4C74-AD7B-084702C8F4B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Servicios", "Servicios\Servicios.csproj", "{8CA1E2B4-9849-477E-B523-DE3F360511F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clases", "Clases\Clases.csproj", "{187B07C1-3E42-4C88-A8C3-E1FCBE84E854}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0558674-8226-4C74-AD7B-084702C8F4B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0558674-8226-4C74-AD7B-084702C8F4B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0558674-8226-4C74-AD7B-084702C8F4B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0558674-8226-4C74-AD7B-084702C8F4B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CA1E2B4-9849-477E-B523-DE3F360511F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CA1E2B4-9849-477E-B523-DE3F360511F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CA1E2B4-9849-477E-B523-DE3F360511F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CA1E2B4-9849-477E-B523-DE3F360511F5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{187B07C1-3E42-4C88-A8C3-E1FCBE84E854}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{187B07C1-3E42-4C88-A8C3-E1FCBE84E854}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{187B07C1-3E42-4C88-A8C3-E1FCBE84E854}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{187B07C1-3E42-4C88-A8C3-E1FCBE84E854}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DEFABBB7-1861-42F1-82F1-B29F65992D7C}
+	EndGlobalSection
+EndGlobal
