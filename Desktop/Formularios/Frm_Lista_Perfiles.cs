@@ -26,6 +26,7 @@ namespace Desktop.Formularios
 
         private void btn_nuevo_Click(object sender, EventArgs e)
         {
+          //abrir solo una instancia del formulario
             var form = WindowsManagement.GetWindow<Frm_Perfil>();
             if (form == null) form = new Frm_Perfil();
             form.ShowDialog();
